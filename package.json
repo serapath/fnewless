@@ -1,0 +1,30 @@
+{
+  "name": "fnewless",
+  "version": "1.0.0",
+  "description": "turn a function with an object or function as it's prototype into a constructor you CAN call without new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/fnewless.git"
+  },
+  "keywords": [
+    "constructor",
+    "new",
+    "extends",
+    "inherit",
+    "inherits",
+    "extends",
+    "super",
+    "prototype",
+    "class"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/fnewless/issues"
+  },
+  "homepage": "https://github.com/serapath/fnewless#readme"
+}
